@@ -5,7 +5,7 @@ Convert image files into different formats, as well as into their Base64 encodin
 
 ## Getting Started
 
-`$ npm install --save git+https://git@github.com/voxmarkets/react-native-image-converter`
+`$ yarn add https://github.com/Zubale/react-native-image-converter`
 
 ### Mostly Automatic Installation
 
