@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.summary      = "RNImageConverter"
   s.description         = package["description"]
 
-  s.homepage     = ""
+  s.homepage     = "https://github.com/Zubale/react-native-image-converter"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
